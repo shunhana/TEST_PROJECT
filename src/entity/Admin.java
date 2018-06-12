@@ -1,6 +1,6 @@
 package entity;
 
-public class Admin {//adminテーブルに対応したエンティティクラス
+public class Admin {//adminテーブルに対応したエンティティクラスaksjfkjaskjfjasdifjkasdjkjkjjasjksdjafkjskfj;kasj
 	private String adminId;
 	private String adminName;
 	private String password;
